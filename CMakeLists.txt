@@ -15,4 +15,6 @@ endfunction()
 add_util(touch)
 add_util(cat)
 add_util(tac)
+add_util(head)
+add_util(tail)
 
