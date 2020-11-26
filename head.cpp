@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+#include <algorithm>
 
 int main(int argc, char *args[]) {
   using namespace std;
