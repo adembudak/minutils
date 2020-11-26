@@ -17,4 +17,6 @@ add_util(cat)
 add_util(tac)
 add_util(head)
 add_util(tail)
+add_util(true)
+add_util(false)
 
