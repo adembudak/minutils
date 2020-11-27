@@ -19,4 +19,5 @@ add_util(head)
 add_util(tail)
 add_util(true)
 add_util(false)
+add_util(yes)
 
