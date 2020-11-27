@@ -21,4 +21,5 @@ add_util(true)
 add_util(false)
 add_util(yes)
 add_util(cp)
+add_util(env)
 
