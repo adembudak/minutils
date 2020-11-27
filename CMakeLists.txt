@@ -24,4 +24,5 @@ add_util(cp)
 add_util(env)
 add_util(echo)
 add_util(pwd)
+add_util(rm)
 
