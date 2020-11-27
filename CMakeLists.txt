@@ -22,4 +22,5 @@ add_util(false)
 add_util(yes)
 add_util(cp)
 add_util(env)
+add_util(echo)
 
