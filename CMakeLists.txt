@@ -29,4 +29,5 @@ add_util(dirname)
 add_util(shuf)
 add_util(nproc)
 add_util(mkdir)
+add_util(basename)
 
