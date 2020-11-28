@@ -27,4 +27,5 @@ add_util(pwd)
 add_util(rm)
 add_util(dirname)
 add_util(shuf)
+add_util(nproc)
 
