@@ -30,4 +30,4 @@ add_util(shuf)
 add_util(nproc)
 add_util(mkdir)
 add_util(basename)
-
+add_util(wc)
