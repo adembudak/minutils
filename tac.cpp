@@ -8,7 +8,7 @@ int main(int argc, char *args[]) {
 
   if (argc == 2) {
     fstream f(args[1]);
-    std::vector<string> buf;
+    vector<string> buf;
 
     string s;
     while (getline(f, s))
@@ -17,7 +17,7 @@ int main(int argc, char *args[]) {
     reverse(buf.begin(), buf.end());
 
     for (auto &i : buf)
-      std::cout << i << '\n';
+      cout << i << '\n';
   }
   return EXIT_FAILURE;
 }

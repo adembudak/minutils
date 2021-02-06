@@ -8,14 +8,14 @@ int main(int argc, char *args[]) {
 
   if (argc == 2) {
     fstream f(args[1]);
-    std::vector<string> buf;
+    vector<string> buf;
 
     string s;
     while (getline(f, s))
       buf.push_back(s);
 
     for (auto &i : buf)
-      std::cout << i << '\n';
+      cout << i << '\n';
   }
   return EXIT_FAILURE;
 }
