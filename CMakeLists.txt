@@ -33,4 +33,5 @@ add_util(basename)
 add_util(wc)
 add_util(diff)
 add_util(chmod)
+add_util(ln)
 
